@@ -18,6 +18,7 @@ URL:		http://search.cpan.org/dist/Net-OpenSSH/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 Requires:	openssh-clients >= 2:4.1
+Suggests:	perl-IO-Tty
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
