@@ -4,7 +4,6 @@
 
 %define		pdir	Net
 %define		pnam	OpenSSH
-%include	/usr/lib/rpm/macros.perl
 Summary:	Net::OpenSSH - Perl SSH client package implemented on top of OpenSSH
 Name:		perl-Net-OpenSSH
 Version:	0.65_05
