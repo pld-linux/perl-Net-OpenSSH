@@ -7,7 +7,7 @@
 Summary:	Net::OpenSSH - Perl SSH client package implemented on top of OpenSSH
 Name:		perl-Net-OpenSSH
 Version:	0.65_05
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
